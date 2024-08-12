@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @AlinaLevitin, I have a PHD in cell biology.
-- 👀 I’m interested in ML and DL for biological purposes.
-- 🌱 I’m currently learning PyTorch and TensorFlow.
+- 👋 Hi, I’m @AlinaLevitin, I have a PHD in chemistry.
 - 📫 My mail is alina.levitin123@gmail.com
 
 <!---
